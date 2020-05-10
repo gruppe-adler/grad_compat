@@ -1,0 +1,13 @@
+name = "Gruppe Adler Compat";
+author = "Gruppe Adler";
+picture = "Adler.paa";
+actionName = "Website";
+action = "https://www.gruppe-adler.de/";
+description = "Gruppe Adler Compat";
+logo = "Adler.paa";
+logoOver = "Adler.paa";
+tooltip = "Gruppe Adler Compat";
+overview = "Gruppe Adler Compat contains compats for diffrent mods.";
+overviewPicture = "Adler.paa";
+overviewText = "";
+overviewFootnote = "";
