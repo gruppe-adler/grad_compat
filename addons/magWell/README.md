@@ -1,6 +1,6 @@
 ### magWell
 
-Adds magwells for GM $ Niarms.
+Adds magwells for GM & Niarms.
 
 #### Maintainer(s)
 
