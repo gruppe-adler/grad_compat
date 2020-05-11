@@ -1,4 +1,4 @@
-#define MAJOR 2
-#define MINOR 16
+#define MAJOR 1
+#define MINOR 0
 #define PATCHLVL 0
-#define COMMIT bbfb920
+#define COMMIT 0

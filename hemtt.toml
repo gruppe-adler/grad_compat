@@ -1,9 +1,9 @@
 name = "Gruppe Adler Compat"
-prefix = "grad"
+prefix = "grad_compat"
 author = "Gruppe Adler"
 files = [
     "mod.cpp",
-    "logo_grad_ca.paa",
+    "Adler.paa",
     "LICENSE",
     "README.md"
 ]
@@ -15,7 +15,7 @@ key_name = "{{prefix}}_{{version}}"
 authority = "{{prefix}}_{{version}}-{{git \"id 8\"}}"
 
 releasebuild = [
-    "@zip gruppe_adler_compat_{{semver.major}}.{{semver.minor}}.{{semver.patch}}"
+    "@zip gruppe_adler_compat_{{semver.major}}.{{semver.minor}}.{{semver.patch}}.{{semver.build}}"
 ]
 
 [header_exts]
